@@ -1,5 +1,5 @@
 project:
-  version: 3.0
-  name: dev1 
+  version: 4.0
+  name: dev2 
   id: 3
-  intro: dev1 intro Git
+  intro: dev2 intro Git
