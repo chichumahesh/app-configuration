@@ -1,0 +1,5 @@
+project:
+  version: 3.0
+  name: qa 
+  id: 3
+  intro: qa intro Git
