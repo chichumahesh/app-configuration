@@ -1,0 +1,5 @@
+project:
+  version: 3.0
+  name: dev 
+  id: 3
+  intro: dev intro Git
